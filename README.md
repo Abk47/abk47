@@ -1,7 +1,7 @@
 ### Hi! I am Abuka Nshunju - The Ravenous Foodie 😅 & Tech Enthusiast 💻
 
 
-## I love to write computer codes (not spaghetti codes) that create solutions and bring a positive impact to my community 😆
+# I love to write computer codes (not spaghetti codes) that create solutions and bring a positive impact to my community 😆
 
 - 🌱 I’m currently learning Mobile Application Development (JAVA, Android Studio, Jetpack Compose)
 - ⚡ Fun fact: I have never lose in FIFA (Why are doubting? 😕)
