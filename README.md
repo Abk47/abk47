@@ -1,10 +1,11 @@
 ### Hi! I am Abuka Nshunju - The Ravenous Foodie 😅 & Tech Enthusiast 💻
 
 
-# I love to write computer codes (not spaghetti codes) that create solutions and bring a positive impact to my community 😆
+- I love to write computer codes (not spaghetti codes) that create solutions and bring a positive impact to my community 😆
 
 - 🌱 I’m currently learning Mobile Application Development (JAVA, Android Studio, Jetpack Compose)
 - ⚡ Fun fact: I have never lose in FIFA (Why are doubting? 😕)
+- I am hoping to take part in exciting projects that would level up my skills (Please ignore the commit chart 😂) 
 <!--
 **Abk47/abk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
