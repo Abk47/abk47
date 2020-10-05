@@ -1,6 +1,6 @@
 ### Hi! I am Abuka Nshunju - Full Stack Developer | The Ravenous Foodie 😅 | Tech Enthusiast 💻
 
-![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
+<img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
 
 - I have an extensive experience in building web applications and creating solutions that bring a positive impact to my community 😆
 
