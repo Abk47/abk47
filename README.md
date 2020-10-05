@@ -6,7 +6,7 @@
 
 - ✨ My Tech stacks: MERN, LAMP, JavaScript, PHP, SQL, PL/SQL
 - :neckbeard: I’m currently learning Mobile Application Development (JAVA, Android Studio, Jetpack Compose)
-- ⚡ Fun fact: I have never lose in FIFA (Why are doubting? 😕)
+- ⚡ Fun fact: The best thing about the 21st century so far is JavaScript
 - I am hoping to take part in exciting projects that would level up my skills (Please ignore the commit chart 😂) 
 <!--
 **Abk47/abk47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
