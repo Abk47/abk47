@@ -4,7 +4,7 @@
 
 - I have an extensive experience in building web applications and creating solutions that bring a positive impact to my community 😆
 
-- ✨ Tech stacks: MERN, PHP, SQL, PL/SQL
+- ✨ My Tech stacks: MERN, LAMP, JavaScript, PHP, SQL, PL/SQL
 - :neckbeard: I’m currently learning Mobile Application Development (JAVA, Android Studio, Jetpack Compose)
 - ⚡ Fun fact: I have never lose in FIFA (Why are doubting? 😕)
 - I am hoping to take part in exciting projects that would level up my skills (Please ignore the commit chart 😂) 
