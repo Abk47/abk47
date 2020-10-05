@@ -1,7 +1,8 @@
-### Hi! I am Abuka Nshunju - The Ravenous Foodie 😅 & Tech Enthusiast 💻
+### Hi! I am Abuka Nshunju - Full Stack Developer | The Ravenous Foodie 😅 | Tech Enthusiast 💻
 
+![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
 
-- I love to write computer codes (not spaghetti codes) that create solutions and bring a positive impact to my community 😆
+- I have an extensive experience in building web applications and creating solutions that bring a positive impact to my community 😆
 
 - ✨ Tech stacks: MERN, PHP, SQL, PL/SQL
 - :neckbeard: I’m currently learning Mobile Application Development (JAVA, Android Studio, Jetpack Compose)
